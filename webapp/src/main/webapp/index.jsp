@@ -1,2 +1,16 @@
-<h1> Hello, sai how are you say thanks to suhasini mam and raheela mam !!! </h1>
+<html>
+<head>
+    <title>Login Page</title>
+</head>
+<body>
+    <h2>$(errorMsg)</h2>
+    <form method="post">
+        <input type="text" name="userId" placeholder="User ID"/>
+        <br><br>
+        <input type="password" name="password" placeholder="Password"/>
+        <br><br>
+        <button>Submit</button>
+    </from>
+</body>
+</html>
 
